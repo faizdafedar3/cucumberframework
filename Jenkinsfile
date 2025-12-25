@@ -4,7 +4,8 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/faizdafedar3/cucumberframework.git'
+                git branch: 'main',
+                    url: 'https://github.com/faizdafedar3/cucumberframework.git'
             }
         }
 
