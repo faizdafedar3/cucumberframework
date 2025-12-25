@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <theme>dark</theme>
+    <encoding>utf-8</encoding>
+    <protocol>https</protocol>
+    <documentTitle>Automation Test Report</documentTitle>
+    <reportName>Cucumber Selenium Report</reportName>
+    <timeStampFormat>dd-MM-yyyy HH:mm:ss</timeStampFormat>
+</configuration>
