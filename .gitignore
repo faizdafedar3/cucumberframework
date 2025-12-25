@@ -14,3 +14,5 @@ ExtentReport.html
 
 # OS
 .DS_Store
+target/
+test-output/
